@@ -1,0 +1,15 @@
+{
+  "name": "npmmode",
+  "version": "1.0.0",
+  "description": "This is the npm tutorial for demo purpose..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonu Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.9.0"
+  }
+}

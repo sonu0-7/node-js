@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-project01",
+  "version": "1.0.0",
+  "description": "My first rest api for perform the operation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Learning_testonomials",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
